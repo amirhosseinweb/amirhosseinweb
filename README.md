@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Amir
 
-<!--
-**amirhosseinweb/amirhosseinweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer.  
+Love building clean and simple web interfaces.  
+Big fan of open-source and always trying out new things.
 
-Here are some ideas to get you started:
+🚀 Working on personal frontend projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Main tools I use:
+- JavaScript / React
+- Tailwind CSS
+
+🌱 Learning React & Tailwind  
+📫 Social media links are in my profile
