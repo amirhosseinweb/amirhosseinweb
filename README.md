@@ -10,5 +10,4 @@ Big fan of open-source and always trying out new things.
 - JavaScript / React
 - Tailwind CSS
 
-🌱 Learning React & Tailwind  
 📫 Social media links are in my profile
