@@ -8,6 +8,8 @@ Big fan of open-source and always trying out new things.
 
 🛠️ Main tools I use:
 - JavaScript / React
+- typescript
+- nextjs
 - Tailwind CSS
 
 📫 Social media links are in my profile
